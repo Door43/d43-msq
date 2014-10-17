@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msq:home|Door43 (msq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msq|d43-msq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msq/archive/master.zip|d43-msq.zip]]
+
+**Recent Changes**
+{{changes>ns = msq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msq|Ethnologue data]]
+
